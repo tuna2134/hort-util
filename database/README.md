@@ -1,4 +1,5 @@
-discord.Client# database.py
+# database.py
+
 このモジュールは保存や読み取りをかんたんにするためのやつです。
 
 ## 使い方
